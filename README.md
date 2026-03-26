@@ -30,8 +30,8 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  ELTE Computer Science  ·  Budapest, Hungary             ║
-║  International STEM Olympiad — Double Gold  🥇🥇          ║
-║  Focus: Distributed Systems · MARL · AI/ML · Robotics   ║
+║  International STEM Olympiad — Double Gold  🥇🥇        ║
+║  Focus: Distributed Systems · MARL · AI/ML · Robotics    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
