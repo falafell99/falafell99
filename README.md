@@ -82,80 +82,151 @@ class Rafael:
 
 ## `> ls -la ./projects`
 
-<details open>
-<summary><b>📂 Featured Projects</b></summary>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🟣 UniFlow
+**Student Operating System**
+
+*Replace 7 apps with one.*
+
+![Status](https://img.shields.io/badge/STATUS-PRODUCTION-6BCB77?style=flat-square&labelColor=0d1117)
+![Users](https://img.shields.io/badge/USERS-ACTIVE-7B68EE?style=flat-square&labelColor=0d1117)
+
+</div>
+
+RAG AI Tutor · Knowledge Vault · Live Whiteboards · Kanban · Forums
+
+```
+React  TypeScript  Supabase
+WebRTC  Groq API  Framer Motion
+```
+
+[![View](https://img.shields.io/badge/→_View_Project-7B68EE?style=flat-square)](https://github.com/falafell99/uniflow)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔵 UrbanFlow AI
+**Autonomous Logistics Simulator**
+
+*Multi-agent coordination. No conflicts.*
+
+![Status](https://img.shields.io/badge/STATUS-RESEARCH-4D96FF?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/TYPE-MARL-7B68EE?style=flat-square&labelColor=0d1117)
+
+</div>
+
+Neural Path Planning · Reward Shaping · Emergent Cooperation
+
+```
+Python  PyTorch  MARL
+Custom Environment  Visualization
+```
+
+[![View](https://img.shields.io/badge/→_View_Project-4D96FF?style=flat-square)](https://github.com/falafell99/urbanflow-ai)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔴 NexusDB
+**Distributed Key-Value Store**
+
+*Strong consistency. No compromises.*
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEV-FF6B6B?style=flat-square&labelColor=0d1117)
+![Algo](https://img.shields.io/badge/ALGO-RAFT-7B68EE?style=flat-square&labelColor=0d1117)
+
+</div>
+
+Leader Election · Log Replication · Snapshotting · Membership Changes
+
+```
+Go  Java  gRPC
+Raft Consensus  Distributed Systems
+```
+
+[![View](https://img.shields.io/badge/→_View_Project-FF6B6B?style=flat-square)](https://github.com/falafell99/nexusdb)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🟠 ORATOR
+**AI Speech Coach**
+
+*Real-time analysis of your speaking.*
+
+![Status](https://img.shields.io/badge/STATUS-BETA-FFB347?style=flat-square&labelColor=0d1117)
+![Powered](https://img.shields.io/badge/BY-AZURE_AI-0078D4?style=flat-square&labelColor=0d1117)
+
+</div>
+
+Pace · Filler Words · Tonal Variation · Confidence Scoring
+
+```
+Python  Azure AI Speech  React
+Custom NLP  Real-time Analytics
+```
+
+[![View](https://img.shields.io/badge/→_View_Project-FFB347?style=flat-square)](https://github.com/falafell99/orator)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td colspan="2">
+
+<div align="center">
+
+### 🟢 Bio-Signal Robotic Prosthesis
+**EMG-Controlled Prosthetic Hand**
+
+![Award](https://img.shields.io/badge/🥇🥇_DOUBLE_GOLD-International_STEM_Olympiad_·_Frankfurt_2024-FFD700?style=for-the-badge&labelColor=1a1a2e)
+
+</div>
 
 <br/>
 
-### 🟣 UniFlow — Student Operating System
-> *The all-in-one platform for students. Built to replace 7 apps with one.*
+<table width="100%">
+<tr>
+<td align="center" width="25%"><b>94%+</b><br/><sub>Gesture Accuracy</sub></td>
+<td align="center" width="25%"><b>Real-time</b><br/><sub>Signal Processing</sub></td>
+<td align="center" width="25%"><b>Bandpass + Notch</b><br/><sub>Noise Filtering</sub></td>
+<td align="center" width="25%"><b>Live Demo</b><br/><sub>Validated</sub></td>
+</tr>
+</table>
+
+<br/>
 
 ```
-Stack:  React · TypeScript · Supabase · WebRTC · Groq API · Framer Motion
-Status: ██████████ Production  |  Users: Active
+Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classification
 ```
 
-A full-scale student ecosystem featuring a **RAG-based AI Tutor** (Oracle) that processes lecture PDFs in real-time, **The Vault** — a knowledge management system with semantic search, collaborative **Teams Hub** with live whiteboards, Notion-style Notes, Kanban task boards, and a social campus layer (Forums, Q&A, Study Groups). Built with real-time Supabase sync across all modules.
+[![View](https://img.shields.io/badge/→_View_Project-6BCB77?style=flat-square)](https://github.com/falafell99/bio-signal-prosthesis)
 
-`AI/RAG` `Real-time` `Full-Stack` `WebRTC` `PWA`
+</td>
+</tr>
+</table>
 
----
-
-### 🔵 UrbanFlow AI — Autonomous Logistics Simulator
-> *Multi-agent coordination for urban delivery — no conflicts, no collisions.*
-
-```
-Stack:  Python · PyTorch · MARL · Custom Environment · Visualization
-Status: ████████░░ Research
-```
-
-A MARL-based simulation environment where autonomous agents navigate urban grids, coordinate deliveries, and avoid conflicts using **neural path planning**. Implements custom reward shaping, emergent cooperation strategies, and real-time visualization of agent decision boundaries.
-
-`MARL` `PyTorch` `Reinforcement Learning` `Simulation` `AI`
-
----
-
-### 🔴 NexusDB — Distributed Key-Value Store
-> *Fault-tolerant consensus from scratch. Strong consistency, no compromises.*
-
-```
-Stack:  Go / Java · Raft Consensus · gRPC · Distributed Systems
-Status: ████████░░ Active Development
-```
-
-A from-scratch implementation of a **distributed KV store** using the **Raft consensus algorithm**. Features leader election, log replication, snapshotting, and cluster membership changes. Designed for strong consistency guarantees under network partitions and node failures.
-
-`Distributed Systems` `Raft` `Consensus` `Fault Tolerance` `Systems`
-
----
-
-### 🟠 ORATOR — AI Speech Coach
-> *Real-time analysis of your public speaking. Powered by Azure AI.*
-
-```
-Stack:  Python · Azure AI Speech · React · Real-time Analytics
-Status: ███████░░░ Beta
-```
-
-An AI-powered application that analyzes **speech metrics** in real-time — pace, filler words, confidence indicators, tonal variation, and clarity scores. Uses Azure Cognitive Services for speech-to-text and custom NLP models for behavioral pattern detection.
-
-`Azure AI` `NLP` `Speech Processing` `Real-time` `React`
-
----
-
-### 🟢 Bio-Signal Robotic Prosthesis
-> *A prosthetic hand controlled by thought — Double Gold, International STEM Olympiad.*
-
-```
-Stack:  Python · C · Signal Processing · EMG · Embedded Systems
-Award:  🥇🥇 Double Gold — International STEM Olympiad, Frankfurt
-```
-
-A robotic prosthetic hand controlled via **EMG bio-signals** from muscle activity. Implements real-time signal acquisition, noise filtering (bandpass + notch), feature extraction, and gesture classification using a trained ML model. Achieved 94%+ gesture recognition accuracy in live demos.
-
-`Robotics` `Bio-Signals` `EMG` `Signal Processing` `Embedded` `ML`
-
-</details>
+<br/>
 
 ---
 
