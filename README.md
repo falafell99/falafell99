@@ -106,7 +106,7 @@ React  TypeScript  Supabase
 WebRTC  Groq API  Framer Motion
 ```
 
-[![View](https://img.shields.io/badge/→_View_Project-7B68EE?style=flat-square)](https://github.com/falafell99/uniflow)
+[![View](https://img.shields.io/badge/→_View_Project-7B68EE?style=flat-square)](https://uniflow-campus-hub.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -130,7 +130,7 @@ Python  PyTorch  MARL
 Custom Environment  Visualization
 ```
 
-[![View](https://img.shields.io/badge/→_View_Project-4D96FF?style=flat-square)](https://github.com/falafell99/urbanflow-ai)
+[![View](https://img.shields.io/badge/→_View_Project-4D96FF?style=flat-square)](https://urbanflow-command.vercel.app)
 
 </td>
 </tr>
@@ -159,7 +159,7 @@ Go  Java  gRPC
 Raft Consensus  Distributed Systems
 ```
 
-[![View](https://img.shields.io/badge/→_View_Project-FF6B6B?style=flat-square)](https://github.com/falafell99/nexusdb)
+[![View](https://img.shields.io/badge/→_View_Project-FF6B6B?style=flat-square)](https://raft-overseer.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +183,7 @@ Python  Azure AI Speech  React
 Custom NLP  Real-time Analytics
 ```
 
-[![View](https://img.shields.io/badge/→_View_Project-FFB347?style=flat-square)](https://github.com/falafell99/orator)
+[![View](https://img.shields.io/badge/→_View_Project-FFB347?style=flat-square)](https://orator-99.vercel.app)
 
 </td>
 </tr>
@@ -219,7 +219,7 @@ Custom NLP  Real-time Analytics
 Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classification
 ```
 
-[![View](https://img.shields.io/badge/→_View_Project-6BCB77?style=flat-square)](https://github.com/falafell99/bio-signal-prosthesis)
+[![View](https://img.shields.io/badge/→_View_Project-6BCB77?style=flat-square)](https://github.com/falafell99/robotic-arm)
 
 </td>
 </tr>
