@@ -6,9 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-ibayev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaelibayev.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael@ibayev.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ibayev-17889b334/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-ibayev-portfolioo.vercel.app)
 [![Location](https://img.shields.io/badge/Budapest,_Hungary-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=7B68EE)](https://maps.google.com/?q=Budapest)
 
 </div>
@@ -284,9 +283,9 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 ├──────────────┬──────────────────────────────────────┬──────────┤
 │  STATUS      │  ACHIEVEMENT                         │  YEAR    │
 ├──────────────┼──────────────────────────────────────┼──────────┤
-│  🥇🥇 GOLD×2  │  International STEM Olympiad         │  2024    │
+│  🥇🥇 GOLD×2  │  International STEM Olympiad        │  2024   │
 │              │  Frankfurt, Germany                  │          │
-│              │  Bio-Signal Robotic Prosthesis        │          │
+│              │  Bio-Signal Robotic Prosthesis       │          │
 ├──────────────┼──────────────────────────────────────┼──────────┤
 │  🥉 BRONZE   │  AMO — Applied Mathematics           │  2023    │
 │              │  Olympiad                            │          │
@@ -326,9 +325,8 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 > Response: Always open to interesting problems.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-ibayev)
-[![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael@ibayev.dev)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaelibayev.dev)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ibayev-17889b334/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-ibayev-portfolioo.vercel.app)
 
 <br/>
 
