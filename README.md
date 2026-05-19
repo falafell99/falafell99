@@ -316,8 +316,6 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 <br/>
 
-*"The best engineers don't just write code — they design systems that outlive them."*
-
 <br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=falafell99&style=flat-square&color=7b68ee&label=PROFILE+VIEWS)
