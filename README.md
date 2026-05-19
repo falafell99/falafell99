@@ -14,20 +14,6 @@
 
 ---
 
-## `> whoami`
-
-```python
-class Rafael:
-    location     = "Budapest, Hungary 🇭🇺"
-    university   = "ELTE — Eötvös Loránd University (CS BSc)"
-    focus        = ["Distributed Systems", "Multi-Agent RL", "AI/ML Architectures",
-                    "Robotics & Bio-Signals", "Full-Stack Engineering"]
-    currently    = "Building systems at the intersection of AI and infrastructure"
-    philosophy   = "Ship fast. Think deep. Build things that matter."
-```
-
----
-
 ## `> focus --areas`
 
 <table>
