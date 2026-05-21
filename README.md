@@ -296,7 +296,7 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 <br/>
 
-<img height="160" src="https://streak-stats.demolab.com/?user=falafell99&theme=tokyonight&hide_border=true&background=0d1117&border=0d1117&stroke=7b68ee&ring=7b68ee&fire=7b68ee&currStreakLabel=7b68ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=falafell99&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=7b68ee&currStreakLabel=7b68ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
 
 </div>
 
