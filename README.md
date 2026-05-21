@@ -301,16 +301,6 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 ---
 
-## `> ping rafael`
-
-<div align="center">
-
-```
-> Connecting to rafael@ibayev.dev...
-> Status: ONLINE ██████████ 100%
-> Response: Always open to interesting problems.
-```
-
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ibayev-17889b334/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-ibayev-portfolioo.vercel.app)
 
