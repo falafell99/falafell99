@@ -296,7 +296,7 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=falafell99&theme=tokyonight&hide_border=true&background=0d1117&ring=7b68ee&fire=7b68ee&currStreakLabel=7b68ee)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=falafell99)](https://git.io/streak-stats)
 
 </div>
 
