@@ -275,17 +275,17 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 ├──────────────┬──────────────────────────────────────┬──────────┤
 │  STATUS      │  ACHIEVEMENT                         │  YEAR    │
 ├──────────────┼──────────────────────────────────────┼──────────┤
-│  🥇🥇 GOLD×2  │  International STEM Olympiad        │  2024   │
+│  🥇🥇 GOLD×2  │  International STEM Olympiad        │  2025   │
 │              │  Frankfurt, Germany                  │          │
 │              │  Bio-Signal Robotic Prosthesis       │          │
 ├──────────────┼──────────────────────────────────────┼──────────┤
-│  🥉 BRONZE   │  AMO — Applied Mathematics           │  2023    │
+│  🥉 BRONZE   │  AMO — Applied Mathematics           │  2024    │
 │              │  Olympiad                            │          │
 ├──────────────┼──────────────────────────────────────┼──────────┤
-│  🏆 FINALIST │  RFO — Republican Final              │  2023    │
+│  🏆 FINALIST │  Republican Final                    │  2024    │
 │              │  Olympiad                            │          │
 ├──────────────┼──────────────────────────────────────┼──────────┤
-│  🎓 STUDENT  │  ELTE Faculty of Informatics         │  2024–   │
+│  🎓 STUDENT  │  ELTE Faculty of Informatics         │  2025–   │
 │              │  Computer Science BSc                │  present │
 └──────────────┴──────────────────────────────────────┴──────────┘
 ```
