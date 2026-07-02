@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=Rafael%20Ibayev&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%C2%B7%20AI%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=16&descColor=c9d1d9" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
+  <img src="assets/ascii-light.gif" alt="Rafael Ibayev ASCII portrait" width="480">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Distributed+Systems+%7C+Multi-Agent+RL+%7C+AI+Architectures;Building+systems+that+think%2C+scale%2C+and+endure.;CS+Student+%40+ELTE+%C2%B7+Budapest%2C+Hungary)](https://git.io/typing-svg)
+# Rafael Ibayev
+### Systems Engineer · AI Researcher · Builder
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Distributed+Systems+%7C+Multi-Agent+RL+%7C+AI+Architectures;Building+systems+that+think%2C+scale%2C+and+endure.;CS+Student+%40+ELTE+%C2%B7+Data+Engineer+%40+Bosch)](https://git.io/typing-svg)
 
 <br/>
 
@@ -11,6 +17,16 @@
 [![Location](https://img.shields.io/badge/Budapest,_Hungary-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=7B68EE)](https://maps.google.com/?q=Budapest)
 
 </div>
+
+---
+
+## `> whoami`
+
+```
+CS student @ ELTE, Budapest — building distributed systems, MARL, and AI architectures.
+Currently: Data Engineer, Bosch (2026 – present) — building data pipelines and
+infrastructure for ADAS.
+```
 
 ---
 
@@ -67,9 +83,52 @@
 
 ## `> ls -la ./projects`
 
-<br/>
-
 <table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/nexusdb-demo.gif" width="100%">
+
+### 🔴 NexusDB
+**Distributed Key-Value Store**
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEV-FF6B6B?style=flat-square&labelColor=0d1117)
+![Algo](https://img.shields.io/badge/ALGO-RAFT-7B68EE?style=flat-square&labelColor=0d1117)
+
+Leader Election · Log Replication · Chaos Engineering · Automatic Failover (1.5–3s)
+
+```
+Go  Java  gRPC
+Raft Consensus  Distributed Systems
+```
+
+[![View](https://img.shields.io/badge/→_View_Project-FF6B6B?style=flat-square)](https://raft-overseer.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/urbanflow-demo.gif" width="100%">
+
+### 🔵 UrbanFlow AI
+**Autonomous Logistics Simulator**
+
+![Status](https://img.shields.io/badge/STATUS-RESEARCH-4D96FF?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/TYPE-MARL-7B68EE?style=flat-square&labelColor=0d1117)
+
+Neural Path Planning · Reward Shaping · Emergent Cooperation, Zero Collisions
+
+```
+Python  PyTorch  MARL
+Custom Environment  Visualization
+```
+
+[![View](https://img.shields.io/badge/→_View_Project-4D96FF?style=flat-square)](https://urbanflow-command.vercel.app)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -93,59 +152,6 @@ WebRTC  Groq API  Framer Motion
 ```
 
 [![View](https://img.shields.io/badge/→_View_Project-7B68EE?style=flat-square)](https://uniflow-campus-hub.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🔵 UrbanFlow AI
-**Autonomous Logistics Simulator**
-
-*Multi-agent coordination. No conflicts.*
-
-![Status](https://img.shields.io/badge/STATUS-RESEARCH-4D96FF?style=flat-square&labelColor=0d1117)
-![Type](https://img.shields.io/badge/TYPE-MARL-7B68EE?style=flat-square&labelColor=0d1117)
-
-</div>
-
-Neural Path Planning · Reward Shaping · Emergent Cooperation
-
-```
-Python  PyTorch  MARL
-Custom Environment  Visualization
-```
-
-[![View](https://img.shields.io/badge/→_View_Project-4D96FF?style=flat-square)](https://urbanflow-command.vercel.app)
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🔴 NexusDB
-**Distributed Key-Value Store**
-
-*Strong consistency. No compromises.*
-
-![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEV-FF6B6B?style=flat-square&labelColor=0d1117)
-![Algo](https://img.shields.io/badge/ALGO-RAFT-7B68EE?style=flat-square&labelColor=0d1117)
-
-</div>
-
-Leader Election · Log Replication · Snapshotting · Membership Changes
-
-```
-Go  Java  gRPC
-Raft Consensus  Distributed Systems
-```
-
-[![View](https://img.shields.io/badge/→_View_Project-FF6B6B?style=flat-square)](https://raft-overseer.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -286,7 +292,6 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 ---
 
-
 ## `> github --stats`
 
 <div align="center">
@@ -307,10 +312,6 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 <br/>
 
-<br/>
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=falafell99&style=flat-square&color=7b68ee&label=PROFILE+VIEWS)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer" width="100%"/>
