@@ -87,6 +87,7 @@ infrastructure for ADAS.
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/-FF6B6B?style=flat-square" width="100%" height="6"><br/>
 <img src="assets/nexusdb-demo.gif" width="100%">
 
 ### 🔴 NexusDB
@@ -107,6 +108,7 @@ Raft Consensus  Distributed Systems
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/-4D96FF?style=flat-square" width="100%" height="6"><br/>
 <img src="assets/urbanflow-demo.gif" width="100%">
 
 ### 🔵 UrbanFlow AI
@@ -132,6 +134,8 @@ Custom Environment  Visualization
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/-7B68EE?style=flat-square" width="100%" height="6"><br/>
+
 <div align="center">
 
 ### 🟣 UniFlow
@@ -155,6 +159,8 @@ WebRTC  Groq API  Framer Motion
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-FFB347?style=flat-square" width="100%" height="6"><br/>
 
 <div align="center">
 
@@ -184,6 +190,8 @@ Custom NLP  Real-time Analytics
 
 <tr>
 <td colspan="2">
+
+<img src="https://img.shields.io/badge/-6BCB77?style=flat-square" width="100%" height="6"><br/>
 
 <div align="center">
 
@@ -269,26 +277,21 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 ## `> cat awards.log`
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  ACHIEVEMENT LOG                                                │
-├──────────────┬──────────────────────────────────────┬──────────┤
-│  STATUS      │  ACHIEVEMENT                         │  YEAR    │
-├──────────────┼──────────────────────────────────────┼──────────┤
-│  🥇🥇 GOLD×2  │  International STEM Olympiad        │  2025   │
-│              │  Frankfurt, Germany                  │          │
-│              │  Bio-Signal Robotic Prosthesis       │          │
-├──────────────┼──────────────────────────────────────┼──────────┤
-│  🥉 BRONZE   │  AMO — Applied Mathematics           │  2024    │
-│              │  Olympiad                            │          │
-├──────────────┼──────────────────────────────────────┼──────────┤
-│  🏆 FINALIST │  Republican Final                    │  2024    │
-│              │  Olympiad                            │          │
-├──────────────┼──────────────────────────────────────┼──────────┤
-│  🎓 STUDENT  │  ELTE Faculty of Informatics         │  2025–   │
-│              │  Computer Science BSc                │  present │
-└──────────────┴──────────────────────────────────────┴──────────┘
-```
+<div align="center">
+
+![Award](https://img.shields.io/badge/🥇🥇_DOUBLE_GOLD-International_STEM_Olympiad_·_Frankfurt_2024-FFD700?style=for-the-badge&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Bronze](https://img.shields.io/badge/🥉_AMO_Bronze-Applied_Mathematics_Olympiad_·_2023-D85A30?style=flat&labelColor=1a1a2e)
+![Finalist](https://img.shields.io/badge/🏆_RFO_Finalist-Republican_Final_Olympiad_·_2023-4D96FF?style=flat&labelColor=1a1a2e)
+![Student](https://img.shields.io/badge/🎓_ELTE-Computer_Science_BSc_·_2024–present-7B68EE?style=flat&labelColor=1a1a2e)
+
+</div>
 
 ---
 
