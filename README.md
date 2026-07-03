@@ -287,7 +287,7 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 <div align="center">
 
-![Bronze](https://img.shields.io/badge/🥉_AMO_Bronze-Applied_Mathematics_Olympiad_·_2025-D85A30?style=flat&labelColor=1a1a2e)
+![Bronze](https://img.shields.io/badge/🥉_AMO_Bronze-American_Mathematics_Olympiad_·_2025-D85A30?style=flat&labelColor=1a1a2e)
 ![Finalist](https://img.shields.io/badge/🏆_RFO_Finalist-Republican_Final_Olympiad_·_2024-4D96FF?style=flat&labelColor=1a1a2e)
 ![Student](https://img.shields.io/badge/🎓_ELTE-Computer_Science_BSc_·_2025–present-7B68EE?style=flat&labelColor=1a1a2e)
 
