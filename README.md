@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hi4-dark (3).gif">
-  <img src="assets/ascii-hi4-light (3).gif" alt="Rafael Ibayev ASCII portrait" width="840">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hi4-dark (4).gif">
+  <img src="assets/ascii-hi4-light (4).gif" alt="Rafael Ibayev ASCII portrait" width="840">
 </picture>
 
 # Rafael Ibayev
