@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hi4-dark.gif">
-  <img src="assets/ascii-hi4-light.gif" alt="Rafael Ibayev ASCII portrait" width="640">
+  <img src="assets/ascii-hi4-light.gif" alt="Rafael Ibayev ASCII portrait" width="740">
 </picture>
 
 # Rafael Ibayev
