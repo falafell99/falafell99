@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hi4-dark (6).gif">
-  <img src="assets/ascii-hi4-light (6).gif" alt="Rafael Ibayev ASCII portrait" width="840">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hi4-dark.gif">
+  <img src="assets/ascii-hi4-light.gif" alt="Rafael Ibayev ASCII portrait" width="640">
 </picture>
 
 # Rafael Ibayev
@@ -78,6 +78,30 @@ infrastructure for ADAS.
 </td>
 </tr>
 </table>
+
+---
+
+## `> cat tech_stack.json`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,cs,go&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,huggingface&theme=dark" />
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,postgres&theme=dark" />
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,supabase,vercel,githubactions,redis&theme=dark" />
+
+</div>
 
 ---
 
@@ -229,49 +253,29 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 ---
 
-## `> cat skills.json`
+## `> cat experience.log`
 
-### Languages
+<table width="100%">
+<tr>
+<td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### Data Engineer · Bosch
+`2026 — present`
 
-### AI / ML
+Building data pipelines and infrastructure for ADAS (Advanced Driver-Assistance Systems).
+Working with large-scale automotive sensor data, designing ingestion and transformation
+pipelines that feed downstream ML and validation systems.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Scope**
+- Designing and maintaining ETL pipelines for ADAS sensor/telemetry data
+- Building data infrastructure to support ML model validation at scale
+- Collaborating with cross-functional automotive engineering teams
 
-### Frontend & Backend
+`Python` `SQL` `Data Pipelines` `ADAS` `ETL`
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -295,18 +299,71 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 
 ---
 
+## `> cat certifications.log`
+
+```
+[ in progress — currently completing coursework, will list here once issued ]
+```
+
+---
+
+## `> cat coding_profiles.json`
+
+<div align="center">
+
+[![LeetCode](https://leetcode-stats-card.vercel.app/api?username=falafell99&theme=dark&border_color=7b68ee&text_color=c9d1d9&title_color=7b68ee)](https://leetcode.com/falafell99/)
+
+</div>
+
+---
+
 ## `> github --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9&rank_icon=github">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=7b68ee&icon_color=7b68ee&text_color=24292e&rank_icon=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9&langs_count=8">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=7b68ee&text_color=24292e&langs_count=8" />
+</picture>
 
 <br/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=falafell99&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=7b68ee&currStreakLabel=7b68ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=falafell99&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=7b68ee&currStreakLabel=7b68ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=falafell99&theme=default&hide_border=true&background=ffffff&stroke=7b68ee&ring=7b68ee&fire=7b68ee&currStreakLabel=7b68ee&sideLabels=24292e&currStreakNum=24292e&sideNums=24292e&dates=24292e" />
+</picture>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=falafell99&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=falafell99&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+</picture>
+
+</div>
+
+---
+
+## `> cat contributions.snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/falafell99/falafell99/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/falafell99/falafell99/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+> Snake animates weekly from your real contribution graph — see setup note below.
 
 ---
 
