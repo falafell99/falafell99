@@ -263,13 +263,6 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 `2026 — present`
 
 Building data pipelines and infrastructure for ADAS (Advanced Driver-Assistance Systems).
-Working with large-scale automotive sensor data, designing ingestion and transformation
-pipelines that feed downstream ML and validation systems.
-
-**Scope**
-- Designing and maintaining ETL pipelines for ADAS sensor/telemetry data
-- Building data infrastructure to support ML model validation at scale
-- Collaborating with cross-functional automotive engineering teams
 
 `Python` `SQL` `Data Pipelines` `ADAS` `ETL`
 
