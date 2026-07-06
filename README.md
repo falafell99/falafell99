@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hi4-dark.gif">
-  <img src="assets/ascii-hi4-light.gif" alt="Rafael Ibayev ASCII portrait" width="840">
+  <img src="assets/ascii-hi4-light.gif" alt="Rafael Ibayev ASCII portrait" width="640">
 </picture>
 
 # Rafael Ibayev
@@ -263,6 +263,13 @@ Python  C  EMG Acquisition  Signal Processing  Embedded Systems  ML Classificati
 `2026 — present`
 
 Building data pipelines and infrastructure for ADAS (Advanced Driver-Assistance Systems).
+Working with large-scale automotive sensor data, designing ingestion and transformation
+pipelines that feed downstream ML and validation systems.
+
+**Scope**
+- Designing and maintaining ETL pipelines for ADAS sensor/telemetry data
+- Building data infrastructure to support ML model validation at scale
+- Collaborating with cross-functional automotive engineering teams
 
 `Python` `SQL` `Data Pipelines` `ADAS` `ETL`
 
@@ -284,9 +291,9 @@ Building data pipelines and infrastructure for ADAS (Advanced Driver-Assistance 
 
 <div align="center">
 
-![Bronze](https://img.shields.io/badge/🥉_AMO_Bronze-Applied_Mathematics_Olympiad_·_2024-D85A30?style=flat&labelColor=1a1a2e)
-![Finalist](https://img.shields.io/badge/🏆_RFO_Finalist-Republican_Final_Olympiad_·_2024-4D96FF?style=flat&labelColor=1a1a2e)
-![Student](https://img.shields.io/badge/🎓_ELTE-Computer_Science_BSc_·_2025–present-7B68EE?style=flat&labelColor=1a1a2e)
+![Bronze](https://img.shields.io/badge/🥉_AMO_Bronze-Applied_Mathematics_Olympiad_·_2023-D85A30?style=flat&labelColor=1a1a2e)
+![Finalist](https://img.shields.io/badge/🏆_RFO_Finalist-Republican_Final_Olympiad_·_2023-4D96FF?style=flat&labelColor=1a1a2e)
+![Student](https://img.shields.io/badge/🎓_ELTE-Computer_Science_BSc_·_2024–present-7B68EE?style=flat&labelColor=1a1a2e)
 
 </div>
 
@@ -304,7 +311,7 @@ Building data pipelines and infrastructure for ADAS (Advanced Driver-Assistance 
 
 <div align="center">
 
-[![LeetCode](https://leetcode-stats-card.vercel.app/api?username=falafell99&theme=dark&border_color=7b68ee&text_color=c9d1d9&title_color=7b68ee)](https://leetcode.com/falafell99/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/falafell99/)
 
 </div>
 
@@ -315,12 +322,12 @@ Building data pipelines and infrastructure for ADAS (Advanced Driver-Assistance 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9&rank_icon=github">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=7b68ee&icon_color=7b68ee&text_color=24292e&rank_icon=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9&rank_icon=github&cache_seconds=86400">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=falafell99&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=7b68ee&icon_color=7b68ee&text_color=24292e&rank_icon=github&cache_seconds=86400" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9&langs_count=8">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=7b68ee&text_color=24292e&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9&langs_count=8&cache_seconds=86400">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falafell99&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=7b68ee&text_color=24292e&langs_count=8&cache_seconds=86400" />
 </picture>
 
 <br/>
